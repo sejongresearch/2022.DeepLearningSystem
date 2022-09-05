@@ -7,8 +7,7 @@
 
 ## 수업교재
 - 비전시스템을 위한 딥러닝 / Deep Learning for Vision Systems
-  - [원서 웹 링크](https://livebook.manning.com/book/grokking-deep-learning-for-computer-vision/chapter-1/)
-  - [원서 PDF](https://github.com/sejongresearch/2022.DeepLearningSystem/blob/main/deep-learning-for-vision-systems.pdf)
+  - [원서 웹 링크](https://livebook.manning.com/book/grokking-deep-learning-for-computer-vision/chapter-1/), [원서 PDF](https://github.com/sejongresearch/2022.DeepLearningSystem/blob/main/deep-learning-for-vision-systems.pdf)
 
 ## 강의계획서
 - 수업시간: 월/수(12:00-13:30) 
