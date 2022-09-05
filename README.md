@@ -5,6 +5,10 @@
 - 중간고사: 2022년 10월 26일(수) 오후 7시 - 10시 / 오프라인 시험 / 이론+실습
 - 기말고사: 2022년 12월 19일(월) 오후 7시 - 10시 / 오프라인 시험 / 이론+실습
 
+## 수업교재
+- 비전시스템을 위한 딥러닝 / Deep Learning for Vision Systems
+  - [원서 웹 링크](https://livebook.manning.com/book/grokking-deep-learning-for-computer-vision/chapter-1/)
+
 ## 강의계획서
 - 수업시간: 월/수(12:00-13:30) 
 - 담당교수
